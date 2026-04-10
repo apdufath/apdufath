@@ -42,7 +42,7 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
----
+-----
 
 ### 🤝 Connect with Me
 <p align="center">
