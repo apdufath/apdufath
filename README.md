@@ -1,139 +1,64 @@
-<!-- 🔥 HERO HEADER -->
+<!-- ☠️ DARK CYBER HACKER README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=220&section=header&text=Abdifatah%20Mohamed%20Bashe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=ABDIFATAH%20MOHAMED%20BASHE&fontSize=32&fontColor=00ff00&animation=fadeIn" />
 </p>
 
-<!-- 🔥 TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer;C%23+.NET+Core+Engineer;Always+Learning+New+Tech" />
-</p>
-
----
-
-## 🚀 About Me
-
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-💡 I am a **Software Engineering student** passionate about building scalable, secure, and user-friendly systems.
-
-🎯 My focus is on writing **clean code, strong architecture, and real-world solutions**.
-
-### 🔐 Cybersecurity
-- Snort IDS/IPS  
-- Metasploit Framework  
-- Password & penetration testing basics  
-
-### 💻 Development
-- Full-Stack Web Apps (React, Django, .NET Core)
-- REST APIs & Backend Systems
-- Mobile Apps (Flutter)
-
-### 🎨 UI/UX
-- Modern UI Design (Figma & Canva)
-- Responsive & clean interfaces
-
----
-
-## 🧠 Tech Stack
-
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,cs,dotnet" />
-</p>
-
-### 📱 Mobile
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=>>+Cybersecurity+Engineer;>>+Full-Stack+Developer;>>+Python+%7C+Django+%7C+.NET+Core;>>+Ethical+Hacking+%7C+Pentesting+Mode;>>+Building+Secure+Systems..." />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 SYSTEM PROFILE
+```bash
+user: abdifatah_bashe
+role: cybersecurity_engineer | full_stack_developer
+status: active
+mode: ethical_hacking
+focus: security + scalable systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" height="180"/>
-</p>
+☠️ ABOUT ME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" height="160"/>
-</p>
+💀 Software Engineering student focused on cybersecurity and full-stack development.
+🔐 I build secure systems, analyze vulnerabilities, and create real-world applications.
+⚡ Passionate about ethical hacking, backend engineering, and automation.
 
----
+🧬 TECH ARSENAL
 
-## 🧩 Featured Projects
+🔐 Cybersecurity
+Snort IDS/IPS
+Metasploit Framework
+John the Ripper
+Linux Security
 
-### 🔹 Project 1: E-Commerce Platform
-- Full-stack online shop
-- Django + React + REST API
-- Secure authentication system
+💻 Development
+Python (Automation & Backend)
+Django (Secure Web Apps)
+.NET Core (Enterprise Systems)
+React (Frontend UI)
 
-### 🔹 Project 2: Cybersecurity Lab
-- Penetration testing practice environment
-- Linux tools + network analysis
+📱 Mobile & UI
+Flutter (Cross-platform Apps)
+Figma / Canva (UI Design)
 
-### 🔹 Project 3: Portfolio Website
-- Responsive personal website
-- Modern UI/UX design
 
----
+⚙️ STACK
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,django,js,react,cs,dotnet,flutter,dart,postgres,mysql,docker,git,vscode" /> </p>
+📊 GITHUB STATUS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=chartreuse-dark&border_radius=15" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=chartreuse-dark&border_radius=15" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=chartreuse-dark" height="160"/> </p>
+🧪 PROJECTS
 
-## 🐍 Contribution Snake
+💀 Secure E-Commerce System → Django + React + JWT
+🛡️ Cyber Lab → Penetration Testing Environment
+⚙️ Python Automation Tools → Security + Productivity Scripts
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/apdufath/apdufath/output/github-contribution-grid-snake.svg" />
-</p>
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/apdufath/apdufath/output/github-contribution-grid-snake.svg" /> </p>
+🌐 CONNECT
+<p align="center"> <a href="https://instagram.com/apdulfath.22"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="mailto:ibnubaashe999@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://github.com/apdufath"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+<p align="center"> <b style="color:#00ff00;">"Think like a hacker. Build like an engineer. Defend like a warrior."</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer"/> </p> ```
 
----
 
-## 📈 Profile Insights
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apdufath&theme=tokyonight" />
-</p>
 
----
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/apdulfath.22">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:ibnubaashe999@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/apdufath">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Quote
-
-<p align="center">
-  <b>"Code is not just written — it is engineered with passion."</b>
-</p>
-
----
-
-<!-- 🔥 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer"/>
-</p>
