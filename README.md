@@ -1,64 +1,91 @@
-<!-- ☠️ DARK CYBER HACKER README -->
+<!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=ABDIFATAH%20MOHAMED%20BASHE&fontSize=32&fontColor=00ff00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:10B981,100:0EA5E9&height=200&section=header&text=Abdifatah%20Mohamed%20Bashe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=>>+Cybersecurity+Engineer;>>+Full-Stack+Developer;>>+Python+%7C+Django+%7C+.NET+Core;>>+Ethical+Hacking+%7C+Pentesting+Mode;>>+Building+Secure+Systems..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer;C%23+.NET+Core+Developer" />
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
-```bash
-user: abdifatah_bashe
-role: cybersecurity_engineer | full_stack_developer
-status: active
-mode: ethical_hacking
-focus: security + scalable systems
+## 🧑‍💻 About Me
 
-☠️ ABOUT ME
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-💀 Software Engineering student focused on cybersecurity and full-stack development.
-🔐 I build secure systems, analyze vulnerabilities, and create real-world applications.
-⚡ Passionate about ethical hacking, backend engineering, and automation.
+✨ Software Engineering student passionate about building real-world solutions.
 
-🧬 TECH ARSENAL
+💡 I focus on clean code, performance, and user-friendly applications.
 
-🔐 Cybersecurity
-Snort IDS/IPS
-Metasploit Framework
-John the Ripper
-Linux Security
+- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
+- 💻 Full-Stack (React, Django, C#, .NET Core)
+- 📱 Mobile Apps (Flutter)
+- 🎨 UI Design (Canva)
+- 🚀 Always learning & improving
 
-💻 Development
-Python (Automation & Backend)
-Django (Secure Web Apps)
-.NET Core (Enterprise Systems)
-React (Frontend UI)
+---
 
-📱 Mobile & UI
-Flutter (Cross-platform Apps)
-Figma / Canva (UI Design)
+## 🛠️ Tech Stack
 
+<p align="center">
 
-⚙️ STACK
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,django,js,react,cs,dotnet,flutter,dart,postgres,mysql,docker,git,vscode" /> </p>
-📊 GITHUB STATUS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=chartreuse-dark&border_radius=15" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=chartreuse-dark&border_radius=15" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=chartreuse-dark" height="160"/> </p>
-🧪 PROJECTS
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
 
-💀 Secure E-Commerce System → Django + React + JWT
-🛡️ Cyber Lab → Penetration Testing Environment
-⚙️ Python Automation Tools → Security + Productivity Scripts
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
 
-🐍 CONTRIBUTION SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/apdufath/apdufath/output/github-contribution-grid-snake.svg" /> </p>
-🌐 CONNECT
-<p align="center"> <a href="https://instagram.com/apdulfath.22"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="mailto:ibnubaashe999@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://github.com/apdufath"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
-<p align="center"> <b style="color:#00ff00;">"Think like a hacker. Build like an engineer. Defend like a warrior."</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer"/> </p> ```
+<img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
 
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
 
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
 
+</p>
 
+---
 
+## ⚡ Animated Skills Bar
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/apdufath/apdufath/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/apdulfath.22">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:ibnubaashe999@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/apdufath">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
+</p>
