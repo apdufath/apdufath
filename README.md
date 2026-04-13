@@ -1,63 +1,95 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🔥 HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:10B981,100:0EA5E9&height=200&section=header&text=Abdifatah%20Mohamed%20Bashe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=220&section=header&text=Abdifatah%20Mohamed%20Bashe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🔥 Typing Animation -->
+<!-- 🔥 TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer;C%23+.NET+Core+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer;C%23+.NET+Core+Engineer;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-✨ Software Engineering student passionate about building real-world solutions.
+💡 I am a **Software Engineering student** passionate about building scalable, secure, and user-friendly systems.
 
-💡 I focus on clean code, performance, and user-friendly applications.
+🎯 My focus is on writing **clean code, strong architecture, and real-world solutions**.
 
-- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
-- 💻 Full-Stack (React, Django, C#, .NET Core)
-- 📱 Mobile Apps (Flutter)
-- 🎨 UI Design (Canva)
-- 🚀 Always learning & improving
+### 🔐 Cybersecurity
+- Snort IDS/IPS  
+- Metasploit Framework  
+- Password & penetration testing basics  
+
+### 💻 Development
+- Full-Stack Web Apps (React, Django, .NET Core)
+- REST APIs & Backend Systems
+- Mobile Apps (Flutter)
+
+### 🎨 UI/UX
+- Modern UI Design (Figma & Canva)
+- Responsive & clean interfaces
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
+### 🌐 Frontend
 <p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,cs,dotnet" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
+### 📱 Mobile
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
+### 🗄️ Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
-
+### 🛠️ Tools & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma" />
 </p>
 
 ---
 
-## ⚡ Animated Skills Bar
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" />
-</p>
+### 🔹 Project 1: E-Commerce Platform
+- Full-stack online shop
+- Django + React + REST API
+- Secure authentication system
+
+### 🔹 Project 2: Cybersecurity Lab
+- Penetration testing practice environment
+- Linux tools + network analysis
+
+### 🔹 Project 3: Portfolio Website
+- Responsive personal website
+- Modern UI/UX design
 
 ---
 
@@ -69,10 +101,18 @@
 
 ---
 
+## 📈 Profile Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apdufath&theme=tokyonight" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/apdulfath.22">
+  <a href="https://instagram.com/apdulfath.22">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:ibnubaashe999@gmail.com">
@@ -85,7 +125,15 @@
 
 ---
 
-<!-- 🔥 Footer Wave -->
+## ⚡ Fun Quote
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
+  <b>"Code is not just written — it is engineered with passion."</b>
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer"/>
 </p>
