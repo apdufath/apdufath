@@ -24,19 +24,60 @@ I enjoy working on both frontend and backend development, creating clean, effici
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td align="center" width="300">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
+
+</td>
+<td align="center" width="300">
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+</td>
+<td align="center">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
+
+</td>
+<td align="center">
+
+### 🛡️ Cybersecurity
+<img src="https://skillicons.dev/icons?i=linux" /><br><br>
+<img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge"/>
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
