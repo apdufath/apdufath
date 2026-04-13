@@ -31,7 +31,7 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **UI/UX & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
----
+-----
 
 ### 📊 My GitHub Activity
 <p align="center">
