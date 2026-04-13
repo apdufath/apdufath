@@ -14,8 +14,7 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-✨ Software Engineering student passionate about building real-world solutions.
-
+✨ Software Engineering student passionate about building real-world solutions.  
 💡 I focus on clean code, performance, and user-friendly applications.
 
 - 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
@@ -29,22 +28,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
-
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
 </p>
 
 ---
 
-## ⚡ Animated Skills Bar
+## ⚡ Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" />
@@ -75,9 +68,11 @@
   <a href="https://www.instagram.com/apdulfath.22">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  &nbsp;
   <a href="mailto:ibnubaashe999@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  &nbsp;
   <a href="https://github.com/apdufath">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
