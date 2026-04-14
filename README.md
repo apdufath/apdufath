@@ -1,15 +1,17 @@
-# <p align="center">Hi there, I'm Abdifatah Mohamed Bashe 👋</p>
+<!-- 🔥 Header -->
+<h1 align="center">Hi there, I'm Abdifatah Mohamed Bashe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer" />
 </p>
 
 ---
 
-### 🚀 About Me
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+## 🚀 About Me
 
-💡 I am a passionate **Software Engineering student** who enjoys building real-world applications.
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+💡 Passionate Software Engineering student building real-world applications.
 
 - 🛡️ Cybersecurity Enthusiast  
 - 💻 Full-Stack Developer  
@@ -18,54 +20,84 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
-</p>
+<div align="center">
 
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java" />
-</p>
+<table>
+<tr>
+<td align="center" width="300">
 
-#### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
 
-#### 🛡️ Cybersecurity
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
-</p>
+</td>
 
-#### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
+<td align="center" width="300">
 
-#### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman" />
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+</td>
+
+<td align="center">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛡️ Cybersecurity
+<img src="https://skillicons.dev/icons?i=linux" /><br><br>
+<img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight" />
-</p>
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.instagram.com/apdulfath.22">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -81,5 +113,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" />
 </p>
