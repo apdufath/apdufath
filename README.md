@@ -12,17 +12,17 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpZzR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Jm9mZj1n/ZVik7pBtu9dNS/giphy.gif" />
 
-✨ Software Engineering student passionate about building real-world solutions.  
-💡 I focus on clean code, performance, and user-friendly applications.
+### ✨ Software Engineering Student 
+I am a dedicated developer focused on building scalable, real-world solutions. My approach blends efficient backend logic with clean, modern UI/UX design.
 
+- 🚀 **Currently Building:** Management systems using Django & React.
+- 🐍 **Tech Stack:** Specialized in Python & Django, with experience in React and C#/.NET.
+- 🛡️ **Cybersecurity:** Hands-on experience with Snort IDS/IPS, network security, and penetration testing tools.
+- 📱 **Mobile:** Developing cross-platform applications with Flutter & Dart.
+- 🎨 **Design:** Creating user-centric prototypes in Figma.
 
-- 💻 Full-Stack (React, Django, C#, .NET Core)
-- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
-- 📱 Mobile Apps (Flutter)
-- 🎨 UI Design (Figma & Canva)
-- 🚀 Always learning & improving
 
 ---
 
