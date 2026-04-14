@@ -1,97 +1,91 @@
+<!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Abdifatah%20Bashe&fontSize=60&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:10B981,100:0EA5E9&height=200&section=header&text=Abdifatah%20Mohamed%20Bashe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Cybersecurity+Specialist;AI+Driven+Builder;Secure+Systems+Architect" />
-</p>
-
----
-
-## 🧠 AI SYSTEM STATUS
-
-```diff
-+ AI MODE: ACTIVE
-+ AUTO UPDATE: ENABLED
-+ SECURITY: HARDENED
-+ LEARNING: CONTINUOUS
-```
-
----
-
-## ⚡ ABOUT ME
-
-```yaml
-name: Abdifatah Bashe
-role: Full-Stack Engineer
-specialty: Backend Systems + Cybersecurity
-stack: Python | Django | React | Flutter
-goal: Build intelligent & secure systems
-```
-
----
-
-## 🧠 DAILY DEV QUOTE (AUTO)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer;C%23+.NET+Core+Developer" />
 </p>
 
 ---
 
-## 📊 LIVE SYSTEM METRICS
+## 🧑‍💻 About Me
+
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+✨ Software Engineering student passionate about building real-world solutions.
+
+💡 I focus on clean code, performance, and user-friendly applications.
+
+- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
+- 💻 Full-Stack (React, Django, C#, .NET Core)
+- 📱 Mobile Apps (Flutter)
+- 🎨 UI Design (Canva)
+- 🚀 Always learning & improving
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=apdufath&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" width="96%" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
+
 </p>
 
 ---
 
-## 📈 ACTIVITY GRAPH (AUTO UPDATE)
+## ⚡ Animated Skills Bar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apdufath&theme=tokyo-night&hide_border=true&color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE (KEEP FOREVER)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" />
 </p>
 
 ---
 
-## 🛠️ TECH STACK
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,flutter,linux,docker,postgres,mysql,git,kali" />
+  <img src="https://raw.githubusercontent.com/apdufath/apdufath/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 CONNECT
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <a href="https://www.instagram.com/apdulfath.22">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  <a href="mailto:ibnubaashe999@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/apdufath">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-```bash
-> system.init()
-> loading intelligence...
-> security.patch(applied)
-> status: UNSTOPPABLE
-```
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
+</p>
