@@ -17,10 +17,11 @@
 ✨ Software Engineering student passionate about building real-world solutions.  
 💡 I focus on clean code, performance, and user-friendly applications.
 
-- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
+
 - 💻 Full-Stack (React, Django, C#, .NET Core)
+- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)
 - 📱 Mobile Apps (Flutter)
-- 🎨 UI Design (Canva)
+- 🎨 UI Design (Figma & Canva)
 - 🚀 Always learning & improving
 
 ---
