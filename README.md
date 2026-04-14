@@ -1,80 +1,71 @@
-<!-- 🔥 Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:10B981,100:0EA5E9&height=200&section=header&text=Abdifatah%20Mohamed%20Bashe&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+# <p align="center">Hi there, I'm Abdifatah Mohamed Bashe 👋</p>
 
-<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer;C%23+.NET+Core+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+💡 I am a passionate **Software Engineering student** who enjoys building real-world applications.
 
-✨ Software Engineering student passionate about building real-world solutions.  
-💡 I focus on clean code, performance, and user-friendly applications.
-
-- 🛡️ Cybersecurity (Snort, Metasploit, John the Ripper)  
-- 💻 Full-Stack (React, Django, C#, .NET Core)  
-- 📱 Mobile Apps (Flutter)  
-- 🎨 UI Design (Canva)  
-- 🚀 Always learning & improving  
+- 🛡️ Cybersecurity Enthusiast  
+- 💻 Full-Stack Developer  
+- 📱 Mobile App Developer  
+- 🏆 Hackathon Participant  
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
+</p>
 
-<b>🎨 Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" /><br><br>
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java" />
+</p>
 
-<b>⚙️ Backend</b><br>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet" /><br><br>
+#### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-<b>📱 Mobile</b><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart" /><br><br>
+#### 🛡️ Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
+</p>
 
-<b>🗄️ Databases</b><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /><br><br>
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-<b>⚙️ DevOps & Tools</b><br>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,canva" />
-
+#### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman" />
 </p>
 
 ---
 
-## ⚡ Animated Skills
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight&border_radius=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/apdufath/apdufath/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
+### 🤝 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/apdulfath.22">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -89,7 +80,6 @@
 
 ---
 
-<!-- 🔥 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" />
 </p>
