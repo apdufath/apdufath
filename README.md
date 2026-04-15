@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Python+%26+Django+Developer" />
 </p>
 
----
+------
 
 ## 🚀 About Me
 
