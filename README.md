@@ -38,8 +38,7 @@
 
 ### ⚙️ Backend
 
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" /><br><br>
-
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" />
 </td>
 </tr>
 
@@ -54,7 +53,9 @@
 <td align="center">
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,MangoDB,Firebase,Orcal,SQLite" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase,sqlite" />
 
 </td>
 </tr>
