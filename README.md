@@ -29,9 +29,8 @@
 <td align="center" width="300">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,dart" />
+
 
 </td>
 
