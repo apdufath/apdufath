@@ -53,8 +53,6 @@
 <td align="center">
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,MangoDB,Firebase,Orcal,SQLite" />
-### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase,sqlite" />
 
 </td>
