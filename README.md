@@ -65,6 +65,44 @@
 <img src="https://skillicons.dev/icons?i=linux" /><br><br>
 <img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
+Kali/Ubuntu Linux
+Wireshark
+Nmap
+Metasploit
+Burp Suite
+John the Ripper
+
+
+
+
+
+### 🛡️ Cybersecurity
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" /><br><br>
+
+<img src="https://img.shields.io/badge/Kali_Linux-0A0F2C?style=for-the-badge&logo=kalilinux&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Ubuntu-0A0F2C?style=for-the-badge&logo=ubuntu&logoColor=10B981"/><br><br>
+
+<img src="https://img.shields.io/badge/Wireshark-0A0F2C?style=for-the-badge&logo=wireshark&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Nmap-0A0F2C?style=for-the-badge&logo=gnu-bash&logoColor=10B981"/><br><br>
+
+<img src="https://img.shields.io/badge/Metasploit-0A0F2C?style=for-the-badge&logo=hackthebox&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0A0F2C?style=for-the-badge&logo=burpsuite&logoColor=10B981"/><br><br>
+
+<img src="https://img.shields.io/badge/John_the_Ripper-0A0F2C?style=for-the-badge&logoColor=10B981"/>
+
+</p>
+
+
+
+
+
+
+
+
+
 
 </td>
 
