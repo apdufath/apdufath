@@ -113,7 +113,7 @@
 <td align="center">
 
 ### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman,canva,visualstudio," />
 
 </td>
 </tr>
