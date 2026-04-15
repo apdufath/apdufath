@@ -61,38 +61,50 @@
 <tr>
 <td align="center">
 
-### 🛡️ Cybersecurity
-<img src="https://skillicons.dev/icons?i=linux" /><br><br>
-<img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
 
 
 ### 🛡️ Cybersecurity
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" /><br><br>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Kali_Linux-0A0F2C?style=for-the-badge&logo=kalilinux&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Ubuntu-0A0F2C?style=for-the-badge&logo=ubuntu&logoColor=10B981"/><br><br>
+<td align="center" width="250">
+<img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=38BDF8"/><br><br>
+<img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=F97316"/>
+</td>
 
-<img src="https://img.shields.io/badge/Wireshark-0A0F2C?style=for-the-badge&logo=wireshark&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Nmap-0A0F2C?style=for-the-badge&logo=gnu-bash&logoColor=10B981"/><br><br>
+<td align="center" width="250">
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=0EA5E9"/><br><br>
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnu-bash&logoColor=22C55E"/>
+</td>
 
-<img src="https://img.shields.io/badge/Metasploit-0A0F2C?style=for-the-badge&logo=hackthebox&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0A0F2C?style=for-the-badge&logo=burpsuite&logoColor=10B981"/><br><br>
+</tr>
 
-<img src="https://img.shields.io/badge/John_the_Ripper-0A0F2C?style=for-the-badge&logoColor=10B981"/>
+<tr>
 
-</p>
+<td align="center">
+<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=hackthebox&logoColor=A855F7"/>
+</td>
 
+<td align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/>
+</td>
 
+</tr>
 
+<tr>
 
+<td colspan="2" align="center">
+<img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logoColor=ffffff"/>
+</td>
 
+</tr>
 
+</table>
 
-
+</div>
 
 
 </td>
