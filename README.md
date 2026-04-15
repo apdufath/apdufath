@@ -29,7 +29,7 @@
 <td align="center" width="300">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,dart" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css," />
 
 
 </td>
@@ -37,7 +37,7 @@
 <td align="center" width="300">
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,C#,.NET,NextJs" />
 
 </td>
 </tr>
