@@ -65,15 +65,6 @@
 <img src="https://skillicons.dev/icons?i=linux" /><br><br>
 <img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Snort_IDS-orange?style=for-the-badge"/>
-Kali/Ubuntu Linux
-Wireshark
-Nmap
-Metasploit
-Burp Suite
-John the Ripper
-
-
-
 
 
 ### 🛡️ Cybersecurity
