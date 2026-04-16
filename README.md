@@ -30,7 +30,7 @@
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,Bootstrap,Vite" />
-
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap,vite" />
 
 </td>
 
