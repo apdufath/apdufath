@@ -49,7 +49,8 @@
   
 ### 📱 Mobile
 ------
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode,Ionic,Xamarin,Kotlin,Java" />
+<!-- <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode,Ionic,Xamarin,Kotlin,Java" /> -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode,kotlin,java" />
 </td>
 
 <td align="center">
