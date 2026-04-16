@@ -37,7 +37,7 @@
 <td align="center" width="300">
   
 ### ⚙️ Backend
-----
+-------
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" />
 </td>
 
@@ -48,7 +48,7 @@
 <td align="center">
   
 ### 📱 Mobile
-----
+------
 <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
 </td>
 
