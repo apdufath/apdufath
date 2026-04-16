@@ -49,7 +49,6 @@
   
 ### 📱 Mobile
 ------
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,sweift,tesorflow,sencha,corona" />
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow" />
 </td>
 
