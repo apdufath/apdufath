@@ -31,23 +31,21 @@
 ### 🎨 Frontend
 ----
 <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap,vite" />
-
 </td>
 
 <td align="center" width="300">
-
 ### ⚙️ Backend
 ----
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" />
 </td>
 </tr>
 
+
 <tr>
 <td align="center">
-
 ### 📱 Mobile
-
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+----
+<img src="https://skillicons.dev/icons?i=flutter,dart,react" />
 </td>
 
 <td align="center">
