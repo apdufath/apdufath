@@ -56,7 +56,8 @@
 
 ### 🗄️ Databases
 ------
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase,sqlite" />
 
 </td>
 </tr>
