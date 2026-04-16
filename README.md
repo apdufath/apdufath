@@ -29,8 +29,7 @@
 <td align="center" width="300">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap,bulma,vite" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap,bulma,vite" />
+----
 <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap,vite" />
 
 </td>
