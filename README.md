@@ -33,16 +33,20 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap,vite" />
 </td>
 
+
 <td align="center" width="300">
+  
 ### ⚙️ Backend
 ----
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" />
 </td>
+
 </tr>
 
 
 <tr>
 <td align="center">
+  
 ### 📱 Mobile
 ----
 <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
@@ -51,6 +55,7 @@
 <td align="center">
 
 ### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase,sqlite" />
 
 </td>
