@@ -49,7 +49,7 @@
   
 ### 📱 Mobile
 ------
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode,Ionic,Xamarin,Kotlin,Java" />
 </td>
 
 <td align="center">
