@@ -116,6 +116,7 @@
 <td align="center">
 
 ### ⚙️ Tools
+-----
 <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman,visualstudio" />
 
 </td>
