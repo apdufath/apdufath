@@ -49,15 +49,15 @@
   
 ### 📱 Mobile
 ------
-<!-- <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode,Ionic,Xamarin,Kotlin,Java" /> -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,xcode,kotlin,java" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift"/><br></br>
+<img src="https://skillicons.dev/icons?i=,tensorflow,androidstudio,kotlin,java" />
 </td>
 
 <td align="center">
 
 ### 🗄️ Databases
 ------
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb"/>
 <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
 
 </td>
