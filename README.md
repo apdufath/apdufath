@@ -18,7 +18,7 @@
 - 📱 Mobile App Developer  
 - 🏆 Hackathon Participant  
 
-------------
+----------------
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@
 <td align="center" width="300">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css," />
+<img src="https://skillicons.dev/icons?i=react,tailwind,boostrab,js,html,css," />
 
 
 </td>
