@@ -37,7 +37,7 @@
 <td align="center" width="300">
   
 ### ⚙️ Backend
--------
+---------
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs" />
 </td>
 
