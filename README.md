@@ -69,7 +69,7 @@
 
 
 ### 🛡️ Cybersecurity
------
+-----------
 <div align="center">
 
 <table>
