@@ -120,7 +120,7 @@
 ### ⚙️ Tools
 -----
 <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx" />
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,visualstudio"/>"
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,visualstudio"/>
 
 </td>
 </tr>
