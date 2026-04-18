@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="left">
+<h1 align="center">
 🚀 About Me
 </h1>
 </br>
