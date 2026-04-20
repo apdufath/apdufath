@@ -114,14 +114,15 @@
 
 </td>
 
-<td align="center">
 
+<td>
 ### ⚙️ Tools
 ----------------------------
 <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx" />
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,visualstudio"/>
 
 </td>
+
 </tr>
 </table>
 
