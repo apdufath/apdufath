@@ -39,7 +39,8 @@
   
 ### ⚙️ Backend
 -------------
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,dotnet,nextjs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs" />
+<img src="https://skillicons.dev/icons?i=dotnet,nextjs,php,laravel" />
 </td>
 
 </tr>
