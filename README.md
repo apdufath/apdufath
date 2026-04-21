@@ -14,7 +14,7 @@
 💡 Passionate Software Engineering student building real-world applications.
 
 - 🛡️ Cybersecurity Enthusiast  
-- 💻 Full-Stack Developer  
+- 💻 Full-Stack Developer   
 - 📱 Mobile App Developer  
 - 🏆 Hackathon Participant  
 
