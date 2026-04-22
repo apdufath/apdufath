@@ -17,7 +17,7 @@
 - 💻 Full-Stack Developer   
 - 📱 Mobile App Developer  
 - 🏆 Hackathon Participant  
-
+ 
 ---------------------
  
 ## 🛠️ Tech Stack
