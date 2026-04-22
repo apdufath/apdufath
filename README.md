@@ -6,7 +6,7 @@
 </p> 
   
 <h1 align="center">
-🚀 About Me
+🚀 About Me 
 </h1> 
 </br>
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
