@@ -15,6 +15,8 @@
 <img align="left" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
+</br>
+</br>
 
 💡 Passionate Software Engineering student building real-world applications.
 
