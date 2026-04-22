@@ -230,7 +230,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:D21034,33:D21034,33:FFFFFF,66:FFFFFF,66:006C35,100:006C35&text=★&fontSize=60&fontColor=000000&animation=fadeIn" />
+</p>
 
 
 
