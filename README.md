@@ -18,11 +18,11 @@
 - 📱 Mobile App Developer  
 - 🏆 Hackathon Participant  
  
--------------------
+--------------
  
 ## 🛠️ Tech Stack
 
---------------------
+--------------
 <div align="center">
 <table>
 <tr>
