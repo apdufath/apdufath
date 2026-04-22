@@ -165,3 +165,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" />
 </p>
+---------
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=120&section=footer" />
+</p>
