@@ -210,3 +210,7 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007A3D,50:FFFFFF,100:C8102E&height=130&section=footer" />
+</p>
+
