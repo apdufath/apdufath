@@ -165,8 +165,48 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" />
 </p>
----------
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=120&section=footer" />
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22C55E&height=150&section=footer&text=ACCESS GRANTED&fontColor=00FF00&fontSize=20" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=110&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=130&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=140&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:10B981&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,100:E0F2FE&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22C55E&height=150&section=footer&text=ACCESS GRANTED&fontColor=00FF00&fontSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=120&section=footer" />
+</p>
+
+
