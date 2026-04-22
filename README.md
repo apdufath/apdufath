@@ -234,13 +234,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:D21034,33:D21034,33:FFFFFF,66:FFFFFF,66:006C35,100:006C35&text=★&fontSize=60&fontColor=000000&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Abdifatah%20Bashe&fontSize=30&fontColor=000000&color=0:007A3D,33:007A3D,33:FFFFFF,66:FFFFFF,66:C8102E,100:C8102E" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=★&fontSize=40&fontColor=000000&color=0:007A3D,33:007A3D,33:FFFFFF,66:FFFFFF,66:C8102E,100:C8102E" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Abdifatah%20Bashe&fontSize=30&fontColor=000000&color=0:007A3D,33:007A3D,33:FFFFFF,66:FFFFFF,66:C8102E,100:C8102E" />
 </p>
 
 
