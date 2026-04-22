@@ -214,3 +214,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007A3D,50:FFFFFF,100:C8102E&height=130&section=footer" />
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:006C35,33:006C35,33:F5F5F5,66:F5F5F5,66:D21034,100:D21034" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Somaliland&fontColor=000000&fontSize=24&color=0:007A3D,33:007A3D,33:FFFFFF,66:FFFFFF,66:C8102E,100:C8102E" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:007A3D,33:007A3D,33:FFFFFF,66:FFFFFF,66:C8102E,100:C8102E" />
+</p>
+
+
+
+
+
+
+
+
+
