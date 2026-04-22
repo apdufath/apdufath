@@ -9,10 +9,11 @@
 🚀 About Me 
 </h1> 
 </br> 
+<div>
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /></br>
 <img align="center" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /></br>
 <img align="left" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /></br>
-
+</div>
 💡 Passionate Software Engineering student building real-world applications.
 
 - 🛡️ Cybersecurity Enthusiast
