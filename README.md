@@ -11,6 +11,7 @@
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <img align="right" width="260" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 <img align="right" width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
+<img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 💡 Passionate Software Engineering student building real-world applications.
 
