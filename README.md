@@ -13,7 +13,6 @@
 <img align="right" width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
 <img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 <img align="right" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<img align="right" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 💡 Passionate Software Engineering student building real-world applications.
