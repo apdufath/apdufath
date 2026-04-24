@@ -9,7 +9,7 @@
 </br>
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-💡 Passionate Software Engineering student building real-world applications. 
+💡 Passionate Software Engineering student building real-world applications.
 
 - 🛡️ Cybersecurity Enthusiast
 - 💻 Full-Stack Developer   
