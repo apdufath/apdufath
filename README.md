@@ -1,6 +1,6 @@
 <!-- 🔥 Header -->
 <h1 align="center">Hi there, I'm Abdifatah Bashe 👋</h1>   
-<p align="center"> 
+<p align="center">  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Cybersecurity+Enthusiast;AI+Integration"/>
 </p>  
 
