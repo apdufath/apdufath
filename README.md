@@ -7,7 +7,7 @@
 <h1 align="left"> 
 🚀 About Me 
 </h1>
-</br>
+</br> 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 💡 Passionate Software Engineering student building real-world applications.
