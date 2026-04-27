@@ -48,14 +48,14 @@
 <td align="center">
   
 ### 📱 Mobile
--------------
+-----
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,kotlin,java" />
 </td>
 
 <td align="center">
 
 ### 🗄️ Databases
----------------
+-----
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb"/>
 <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
 
@@ -135,7 +135,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&border_radius=15" />
 </p>
 
----------------
+--------
 
 ## 🔥 Streak Stats
 
@@ -143,7 +143,7 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=15" />
 </p>
 
-----------------
+-------
 
 ## 🤝 Connect with Me
 
