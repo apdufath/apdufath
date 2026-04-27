@@ -48,7 +48,7 @@
 <td align="center">
   
 ### 📱 Mobile
------
+--------
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,kotlin,java" />
 </td>
 
