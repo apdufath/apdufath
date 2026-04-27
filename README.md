@@ -159,7 +159,7 @@
   </a>
 </p>
 
-----------
+----
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" />
