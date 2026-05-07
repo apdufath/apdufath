@@ -127,9 +127,7 @@
 -----------------
 
 ### 📊 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
