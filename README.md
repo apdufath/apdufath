@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
  
 ------ 
-<div align="center">
+<div align="center"> 
 <table>
 <tr>
 <td align="center" width="300">
