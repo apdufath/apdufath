@@ -13,7 +13,7 @@
    
 - 🛡️ Cybersecurity Enthusiast 
 - 💻 Full-Stack Developer
-- 📱 Mobile App Developer
+- 📱 Mobile App Developer 
 - 🏆 Hackathon Participant
    
 ## 🛠️ Tech Stack  
