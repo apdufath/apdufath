@@ -6,7 +6,7 @@
 
 <h1 align="left">     
 🚀 About Me            
-</h1>             
+</h1>  
 </br>      
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
  
@@ -25,7 +25,7 @@
 <td align="center" width="300">
 
 ### 🎨 Frontend
------
+-----------------
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vite,react" />
 </td>
 
