@@ -1,5 +1,5 @@
 <!-- 🔥 Header -->         
-<h1 align="center">Hi there, I'm Abdifatah Bashe 👋</h1>
+<h1 align="center">Hi there, I'm Abdifatah Bashe 👋</h1> 
 <p align="center">     
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FACC15&center=true&vCenter=true&width=700&lines=🌐+Full-Stack+Software+Engineering;🤖+AI+Integration+Explorer" />
 </p> 
