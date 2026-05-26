@@ -1,160 +1,36 @@
-<!-- 🔥 Header -->         
-<h1 align="center">Hi there, I'm Abdifatah Bashe 👋</h1>   
-<p align="center">      
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FACC15&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+Full-Stack+Software+Engineering;%F0%9F%A4%96+AI+Integration+Explorer" />
-</p>
-<h1 align="left">  
-🚀 About Me 
-</h1>  
-</br>    
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
- 
-💡 Passionate Software Engineering student building real-world applications. 
-   
-- 💻 Full-Stack Developer 
-- 📱 Mobile App Developer  
-- 🏆 Hackathon Participant
-   
-## 🛠️ Tech Stack  
- 
------------
-
-<div align="center"> 
-<table>
-<tr>
-<td align="center" width="300">
-
-### 🎨 Frontend
------------------
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vite,react" />
-</td>
-
-
-<td align="center" width="300">
-  
-### ⚙️ Backend
----------------
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs" />
-<img src="https://skillicons.dev/icons?i=dotnet,nextjs,php,laravel,spring" />
-</td>
-
-</tr>
-
-
-<tr>
-<td align="center">
-  
-### 📱 Mobile
---------
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,tensorflow,androidstudio,kotlin,java" />
-</td>
-
-<td align="center">
-
-### 🗄️ Databases
------
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb"/>
-<img src="https://skillicons.dev/icons?i=firebase,sqlite" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-
-
-
-### 🛡️ Cybersecurity
-------------
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=38BDF8"/><br><br>
-<img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=F97316"/>
-</td>
-
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=0EA5E9"/><br><br>
-<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnu-bash&logoColor=22C55E"/>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=hackthebox&logoColor=A855F7"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/>
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-<img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logoColor=ffffff"/>
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-
-</td>
-
-<td align="center">
-  
-### ⚙️ Tools
-----------------------------
-<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx" />
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,visualstudio"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
------------------
-
-### 📊 My GitHub Activity
-
+<!-- ========================================= -->
+<!--              MODERN GITHUB README        -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0f172a,100:1e293b&text=Abdifatah%20Bashe&fontColor=38bdf8&fontSize=55&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65"/>
 </p>
-
-
--------
-
-## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/apdulfath.22">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:ibnubaashe999@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/apdufath">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Software+Engineer;🤖+AI+Integration+Explorer;📱+Mobile+App+Developer;⚡+Building+Modern+Applications" />
 </p>
 
-----
- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer" />
-</p>
+---
 
+# 💫 About Me
 
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
+```yaml
+Name: Abdifatah Bashe
+Role: Software Engineering Student
+Focus:
+  - Full-Stack Development
+  - AI Integration
+  - Mobile Applications
+  - Cybersecurity
+
+Currently Learning:
+  - Advanced Backend Systems
+  - Cloud & DevOps
+  - Flutter + Firebase
+
+Goals:
+  - Build Real-World Projects
+  - Improve Problem Solving
+  - Become a Professional Engineer
