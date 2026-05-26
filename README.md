@@ -10,33 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Software+Engineer;🤖+AI+Integration+Explorer;📱+Mobile+App+Developer;⚡+Building+Modern+Applications" />
 </p>
 
----
-
-# 💫 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-```yaml
-Name: Abdifatah Bashe
-Role: Software Engineering Student
-Focus:
-  - Full-Stack Development
-  - AI Integration
-  - Mobile Applications
-  - Cybersecurity
-
-Currently Learning:
-  - Advanced Backend Systems
-  - Cloud & DevOps
-  - Flutter + Firebase
-
-Goals:
-  - Build Real-World Projects
-  - Improve Problem Solving
-  - Become a Professional Engineer
-
-
-
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/apdufath?style=for-the-badge&color=111827&labelColor=0f172a"/>
@@ -45,9 +18,7 @@ Goals:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ABOUT -->
+---
 
 # 💫 About Me
 
@@ -82,37 +53,33 @@ Goals:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- CONNECT -->
-
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/apdufath">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="mailto:ibnubaashe999@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/apdulfath.22">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord"/>
+  <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- TECH STACK -->
 
 # ⚡ Tech Stack
 
@@ -157,8 +124,6 @@ Goals:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- STATS -->
-
 # 📊 GitHub Statistics
 
 <img align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apdufath&theme=github_dark" />
@@ -181,8 +146,6 @@ Goals:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- TROPHIES -->
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -190,8 +153,6 @@ Goals:
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- QUOTE -->
 
 # ✍️ Random Dev Quote
 
