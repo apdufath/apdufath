@@ -1,100 +1,116 @@
 <!-- ========================================= -->
-<!--              MODERN GITHUB README        -->
+<!--            FUTURISTIC GITHUB README      -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0f172a,100:1e293b&text=Abdifatah%20Bashe&fontColor=38bdf8&fontSize=55&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,50:111827,100:38BDF8&text=Abdifatah%20Bashe&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Software%20Engineer&descAlignY=58"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Software+Engineer;🤖+AI+Integration+Explorer;📱+Mobile+App+Developer;⚡+Building+Modern+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Building+Modern+Digital+Experiences;🤖+Exploring+Artificial+Intelligence;⚡+Full-Stack+Software+Engineer;📱+Mobile+%26+Web+Application+Developer;🛡️+Cybersecurity+Enthusiast" />
 </p>
 
 ---
 
-# 💫 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-```yaml
-Name: Abdifatah Bashe
-Role: Software Engineering Student
-
-Focus:
-  - Full-Stack Development
-  - AI Integration
-  - Mobile Applications
-
-Currently Learning:
-  - Advanced Backend Systems
-  - Cloud & DevOps
-  - Flutter + Firebase
-
-Goals:
-  - Build Real-World Projects
-  - Improve Problem Solving
-  - Become a Professional Engineer
-```
-
-<br>
-
----
-
-# ⚡ Tech Stack
-
 <div align="center">
 
-## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs,vite" />
+<img src="https://komarev.com/ghpvc/?username=apdufath&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/apdufath?style=for-the-badge&color=111827&labelColor=0f172a"/>
 
-## ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,java,spring,cs,dotnet" />
-
-<br><br>
-
-## 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase" />
-
-<br><br>
-
-## 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase" />
-
-<br><br>
-
-## 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma,postman" />
-
-<br><br>
-
-## 🛡️ Cybersecurity
-
-<img src="https://skillicons.dev/icons?i=kali,ubuntu,bash" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0f172a?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge&logo=hackthebox&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&logo=gnu-bash&logoColor=22C55E"/>
+<img src="https://img.shields.io/github/stars/apdufath?style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 💫 About Me
 
-<div align="center">
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N2N2M2eWx1c3M0OWJvOG9lOHg4ZmVlaHFqMjFjMndrbTQzYjhkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+```yaml
+Name: Abdifatah Bashe
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&hide_border=true&border_radius=15"/>
+Role:
+  - Full-Stack Software Engineer
+  - AI Integration Explorer
+  - Mobile App Developer
+
+Currently Working On:
+  - Modern Web Applications
+  - AI Powered Systems
+  - Flutter + Firebase Apps
+
+Learning:
+  - Cloud Computing
+  - DevOps Engineering
+  - Backend Architecture
+  - Cybersecurity
+
+Goals:
+  - Build Powerful Real-World Projects
+  - Master Full-Stack Development
+  - Become Elite Software Engineer
+```
 
 <br><br>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=apdufath&theme=tokyo-night&hide_border=true"/>
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap" />
+
+<br><br>
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,java,spring,cs,dotnet" />
+
+<br><br>
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase" />
+
+<br><br>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase" />
+
+<br><br>
+
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,figma,postman" />
+
+<br><br>
+
+### 🛡️ Cybersecurity
+<img src="https://skillicons.dev/icons?i=kali,bash,ubuntu" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/BurpSuite-111827?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=hackthebox&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnubash&logoColor=22C55E"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br><br>
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=apdufath&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -104,11 +120,21 @@ Goals:
 
 <div align="center">
 
-| Learning | Building | Exploring |
-|----------|-----------|------------|
+| 🚀 Learning | ⚡ Building | 🔍 Exploring |
+|---|---|---|
 | Advanced Backend | Full-Stack Apps | AI Systems |
-| Flutter + Firebase | Modern UI/UX | Cybersecurity |
-| DevOps Basics | API Integration | Automation |
+| Cloud + DevOps | Modern UI/UX | Cybersecurity |
+| System Design | API Platforms | Automation |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=apdufath&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -116,28 +142,32 @@ Goals:
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/apdufath">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="mailto:ibnubaashe999@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/apdulfath.22">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,100:38BDF8&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,50:111827,100:38BDF8&section=footer"/>
 </p>
