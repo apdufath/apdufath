@@ -1,34 +1,37 @@
+````md id="q7m2kx"
 <!-- ========================================= -->
 <!--              TOP BANNER                  -->
 <!-- ========================================= -->
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!-- PROFILE VIEWS -->
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=apdufath&label=Profile%20Views&color=0ED7FF&style=flat" />
-</p>
-
 <!-- INTRO -->
 
 <h1 align="center">Hi 👋, I'm Abdifatah Bashe</h1>
 
 <h3 align="center">
-Full-Stack Developer • AI Explorer • Mobile App Developer
+🚀 Full-Stack Developer • 🤖 AI Explorer • 📱 Mobile App Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=0ED7FF&center=true&vCenter=true&width=850&lines=🚀+Building+Modern+Applications;🤖+AI+Integration+Explorer;📱+Flutter+%26+Web+Developer;⚡+Passionate+Software+Engineer;🛡️+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=🚀+Building+Modern+Applications;🤖+AI+Integration+Explorer;📱+Flutter+%26+Web+Developer;⚡+Passionate+Software+Engineer;🛡️+Cybersecurity+Enthusiast" />
 </p>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/apdufath?style=for-the-badge&color=111827&labelColor=0f172a"/>
+
+<img src="https://img.shields.io/github/stars/apdufath?style=for-the-badge&color=00E7FF&labelColor=0f172a"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ABOUT ME -->
+<!-- ABOUT -->
+
+# 💫 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-## 💫 About Me
 
 ```yaml
 Name: Abdifatah Bashe
@@ -38,35 +41,51 @@ Role:
   - Full-Stack Developer
   - AI Integration Explorer
 
+Passionate About:
+  - Modern Web Applications
+  - Artificial Intelligence
+  - Mobile Development
+  - Cybersecurity
+
 Currently Learning:
   - Advanced Backend Systems
   - Flutter + Firebase
   - Cloud & DevOps
 
 Goals:
-  - Build Real-World Projects
+  - Build Powerful Projects
   - Improve Problem Solving
-  - Become Professional Engineer
+  - Become Elite Software Engineer
 ```
 
 <br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- CONNECT -->
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/apdufath">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="mailto:ibnubaashe999@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/apdulfath.22">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
 </p>
@@ -109,7 +128,7 @@ Goals:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=0ED7FF"/>
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=00E7FF"/>
 <img src="https://img.shields.io/badge/BurpSuite-111827?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=hackthebox&logoColor=purple"/>
 <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnubash&logoColor=green"/>
@@ -122,7 +141,7 @@ Goals:
 
 # 📊 GitHub Statistics
 
-<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apdufath&theme=github_dark" />
+<img align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apdufath&theme=github_dark" />
 
 <img align="right" width="47%" src="https://streak-stats.demolab.com?user=apdufath&theme=transparent&hide_border=true" />
 
@@ -130,15 +149,15 @@ Goals:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apdufath&theme=github_dark" />
+<img align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apdufath&theme=github_dark" />
 
-<img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apdufath&theme=github_dark" />
+<img align="right" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apdufath&theme=github_dark" />
 
 <br><br><br><br><br><br><br><br><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apdufath&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apdufath&theme=github_dark" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -158,10 +177,11 @@ Goals:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="650"/>
 
 </div>
 
 <!-- FOOTER -->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+````
