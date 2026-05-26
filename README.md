@@ -1,72 +1,90 @@
 <!-- ========================================= -->
-<!--            FUTURISTIC GITHUB README      -->
+<!--              TOP BANNER                  -->
 <!-- ========================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,50:111827,100:38BDF8&text=Abdifatah%20Bashe&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Software%20Engineer&descAlignY=58"/>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<!-- PROFILE VIEWS -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=apdufath&label=Profile%20Views&color=0ED7FF&style=flat" />
 </p>
 
+<!-- INTRO -->
+
+<h1 align="center">Hi 👋, I'm Abdifatah Bashe</h1>
+
+<h3 align="center">
+Full-Stack Developer • AI Explorer • Mobile App Developer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Building+Modern+Digital+Experiences;🤖+Exploring+Artificial+Intelligence;⚡+Full-Stack+Software+Engineer;📱+Mobile+%26+Web+Application+Developer;🛡️+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=0ED7FF&center=true&vCenter=true&width=850&lines=🚀+Building+Modern+Applications;🤖+AI+Integration+Explorer;📱+Flutter+%26+Web+Developer;⚡+Passionate+Software+Engineer;🛡️+Cybersecurity+Enthusiast" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<!-- ABOUT ME -->
 
-<img src="https://komarev.com/ghpvc/?username=apdufath&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img src="https://img.shields.io/github/followers/apdufath?style=for-the-badge&color=111827&labelColor=0f172a"/>
-
-<img src="https://img.shields.io/github/stars/apdufath?style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N2N2M2eWx1c3M0OWJvOG9lOHg4ZmVlaHFqMjFjMndrbTQzYjhkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"/>
+## 💫 About Me
 
 ```yaml
 Name: Abdifatah Bashe
 
 Role:
-  - Full-Stack Software Engineer
+  - Software Engineering Student
+  - Full-Stack Developer
   - AI Integration Explorer
-  - Mobile App Developer
 
-Currently Working On:
-  - Modern Web Applications
-  - AI Powered Systems
-  - Flutter + Firebase Apps
-
-Learning:
-  - Cloud Computing
-  - DevOps Engineering
-  - Backend Architecture
-  - Cybersecurity
+Currently Learning:
+  - Advanced Backend Systems
+  - Flutter + Firebase
+  - Cloud & DevOps
 
 Goals:
-  - Build Powerful Real-World Projects
-  - Master Full-Stack Development
-  - Become Elite Software Engineer
+  - Build Real-World Projects
+  - Improve Problem Solving
+  - Become Professional Engineer
 ```
 
 <br><br>
 
----
+<!-- CONNECT -->
 
-# ⚡ Tech Arsenal
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/apdufath">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ibnubaashe999@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/apdulfath.22">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- TECH STACK -->
+
+# ⚡ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap" />
 
 <br><br>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,java,spring,cs,dotnet" />
 
 <br><br>
@@ -81,93 +99,69 @@ Goals:
 
 <br><br>
 
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,figma,postman" />
+### ☁️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma,postman" />
 
 <br><br>
 
 ### 🛡️ Cybersecurity
-<img src="https://skillicons.dev/icons?i=kali,bash,ubuntu" />
+<img src="https://skillicons.dev/icons?i=kali,ubuntu,bash" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/BurpSuite-111827?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=hackthebox&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnubash&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=0ED7FF"/>
+<img src="https://img.shields.io/badge/BurpSuite-111827?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=hackthebox&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnubash&logoColor=green"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Analytics
+<!-- STATS -->
 
-<div align="center">
+# 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apdufath&theme=github_dark" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img align="right" width="47%" src="https://streak-stats.demolab.com?user=apdufath&theme=transparent&hide_border=true" />
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=apdufath&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
+<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apdufath&theme=github_dark" />
 
----
+<img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apdufath&theme=github_dark" />
 
-# 🧠 Current Focus
+<br><br><br><br><br><br><br><br><br><br>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| 🚀 Learning | ⚡ Building | 🔍 Exploring |
-|---|---|---|
-| Advanced Backend | Full-Stack Apps | AI Systems |
-| Cloud + DevOps | Modern UI/UX | Cybersecurity |
-| System Design | API Platforms | Automation |
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apdufath&theme=github_dark" />
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<!-- TROPHIES -->
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=apdufath&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/apdufath">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:ibnubaashe999@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.instagram.com/apdulfath.22">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,50:111827,100:38BDF8&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=apdufath&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- QUOTE -->
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
+
+</div>
+
+<!-- FOOTER -->
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
