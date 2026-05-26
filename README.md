@@ -34,3 +34,36 @@ Goals:
   - Build Real-World Projects
   - Improve Problem Solving
   - Become a Professional Engineer
+
+
+
+  ⚡ Tech Stack
+<div align="center">
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs,vite" />
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,java,spring,cs,dotnet" />
+📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase" />
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase" />
+🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma,postman" />
+🛡️ Cybersecurity
+<img src="https://skillicons.dev/icons?i=kali,ubuntu,bash" /> <img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Burp_Suite-0f172a?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/> <img src="https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge&logo=hackthebox&logoColor=A855F7"/> <img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&logo=gnu-bash&logoColor=22C55E"/> </div>
+📊 GitHub Stats
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=apdufath&theme=tokyo-night&hide_border=true"/> </div>
+🧠 Current Focus
+<div align="center">
+Learning	Building	Exploring
+Advanced Backend	Full-Stack Apps	AI Systems
+Flutter + Firebase	Modern UI/UX	Cybersecurity
+DevOps Basics	API Integration	Automation
+</div>
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/apdufath"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="mailto:ibnubaashe999@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://www.instagram.com/apdulfath.22"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,100:38BDF8&section=footer"/> </p> ```
