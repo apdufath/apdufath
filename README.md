@@ -23,7 +23,7 @@ Focus:
   - Full-Stack Development
   - AI Integration
   - Mobile Applications
-  - Cybersecurity
+  
 
 Currently Learning:
   - Advanced Backend Systems
