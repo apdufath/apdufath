@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Software+Engineer;🤖+AI+Integration+Explorer;📱+Mobile+App+Developer;⚡+Building+Modern+Applications" />
 </p>
 
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/apdufath?style=for-the-badge&color=111827&labelColor=0f172a"/>
-
-<img src="https://img.shields.io/github/stars/apdufath?style=for-the-badge&color=00E7FF&labelColor=0f172a"/>
-
-</div>
-
 ---
 
 # 💫 About Me
