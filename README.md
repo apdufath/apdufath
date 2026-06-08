@@ -21,21 +21,8 @@ Role:
   - Full-Stack Developer
   - AI Integration Explorer
 
-Passionate About:
-  - Modern Web Applications
-  - Artificial Intelligence
-  - Mobile Development
-  - Cybersecurity
 
-Currently Learning:
-  - Advanced Backend Systems
-  - Flutter + Firebase
-  - Cloud & DevOps
 
-Goals:
-  - Build Powerful Projects
-  - Improve Problem Solving
-  - Become Elite Software Engineer
 ```
 
 <br><br>
