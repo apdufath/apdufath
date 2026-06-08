@@ -6,7 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0f172a,100:1e293b&text=Abdifatah%20Bashe&fontColor=38bdf8&fontSize=55&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65" /> 
 </p>
  
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Software+Engineer;🤖+AI+Integration+Explorer;🎨+UI%2FUX+Designer" />
+</p>
+
+-----
 
 # 💫 About Me
 
