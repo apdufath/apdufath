@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ```yaml
 Name: Abdifatah Bashe
@@ -43,7 +43,7 @@ Goals:
 
 <br><br>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🌐 Connect With Me
 
