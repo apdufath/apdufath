@@ -103,31 +103,6 @@ Role:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Statistics
-
-<img align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apdufath&theme=github_dark" />
-
-<img align="right" width="47%" src="https://streak-stats.demolab.com?user=apdufath&theme=transparent&hide_border=true" />
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apdufath&theme=github_dark" />
-
-<img align="right" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apdufath&theme=github_dark" />
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apdufath&theme=github_dark" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 # ✍️ Random Dev Quote
 
