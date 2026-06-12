@@ -28,7 +28,8 @@ Role:
 
 ```
 
-<br><br>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -104,11 +105,20 @@ Role:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+# 📊 GitHub Analytics
 
-brbr
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apdufath&theme=tokyo-night"/>
+</p>
 
 
 
