@@ -36,11 +36,6 @@ Role:
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/apdufath">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="mailto:ibnubaashe999@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
