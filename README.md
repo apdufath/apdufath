@@ -44,11 +44,11 @@ Role:
   <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/apdufath">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/apdufath">
   <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
