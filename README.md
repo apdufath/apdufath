@@ -1,7 +1,7 @@
 <!-- ========================================= -->  
 <!--              MODERN GITHUB README         -->
 <!-- ========================================= -->     
- 
+  
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:0f172a,100:1e293b&text=Abdifatah%20Bashe&fontColor=38bdf8&fontSize=55&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65" />
 </p> 
