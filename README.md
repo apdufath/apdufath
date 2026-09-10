@@ -47,7 +47,7 @@ Role:
   <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/apdufath">
+<a href="https://www.linkedin.com/in/abdifatah-bashe-315445195?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
