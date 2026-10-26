@@ -3,7 +3,7 @@
 <!-- ========================================= --> 
    
 <div align="center">
-
+ 
 <img src="./banner.svg" alt="Abdifatah Bashe" width="100%"/>
 
 <br/>
