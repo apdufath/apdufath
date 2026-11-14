@@ -2,8 +2,8 @@
 <!--              MODERN GITHUB README         --> 
 <!-- ========================================= --> 
    
-<div align="center">
- 
+<div align="center"> 
+  
 <img src="./banner.svg" alt="Abdifatah Bashe" width="100%"/>
 
 <br/>
